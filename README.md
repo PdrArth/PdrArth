@@ -1,4 +1,4 @@
-<h1 align="center">Eu sou Pedro Arthur, vulgo Arth</h1>
+<h1 align="center">Eu sou Pedro Arthur, conhecido como Arth</h1>
 
 -  Curso Engenharia de Computação
 
