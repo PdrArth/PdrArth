@@ -23,6 +23,8 @@
 <a href="https://www.linkedin.com/in/pedro-arthur-o-a06007256/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
 
+ 
+
 <div align="center">
 <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PdrArth&show_icons=true&locale=en&layout=compact&size_weight=0.5&count_weight=0.5&theme=dark" alt="PdrArth" />
 <img height="145em" src="https://github-readme-stats.vercel.app/api/?username=PdrArth&show_icons=true&theme=dark" alt="PdrArth" />
