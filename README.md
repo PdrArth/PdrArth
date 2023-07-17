@@ -5,15 +5,15 @@
 
 
 
-<img align="left" src="https://github.com/TryKatChup/TryKatChup/blob/main/cropped.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="200" /> 
+<img align="left" src="https://github.com/TryKatChup/TryKatChup/blob/main/cropped.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="350" /> 
 
-🏫 Estudante de Engenharia de Computação Univiçosa
+🏫 Sou estudante de Engenharia de Computação na Univiçosa.
 
-🔎 Interesse em me torna um Desenvolvedor Mobile 
+🔎 Estou super interessado em me tornar um Desenvolvedor Mobile.
 
-🌱 Aprendendo sobre atualmente Kotlin 
+🌱 No momento, estou aprendendo Kotlin.
 
-🌟 Linguagens para aprender: Java, JavaScript..
+🌟 As próximas linguagens que pretendo aprender são Java e JavaScript.
 
 
 
@@ -23,12 +23,13 @@
 <a href="https://www.linkedin.com/in/pedro-arthur-o-a06007256/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PdrArth&theme=swift&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=PdrArth&theme=swift&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PdrArth&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+<img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PdrArth&show_icons=true&locale=en&layout=compact&size_weight=0.5&count_weight=0.5&theme=dark" alt="PdrArth" />
+<img height="145em" src="https://github-readme-stats.vercel.app/api/?username=PdrArth&show_icons=true&theme=dark" alt="PdrArth" />
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=PdrArth&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
