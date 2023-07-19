@@ -5,7 +5,7 @@
 
 
 
-<img align="left" src="https://github.com/TryKatChup/TryKatChup/blob/main/cropped.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="200" /> 
+<img align="left" src="https://github.com/TryKatChup/TryKatChup/blob/main/cropped.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="250" /> 
 
 🏫 Sou estudante de Engenharia de Computação na Univiçosa.
 
@@ -25,8 +25,8 @@
 
 
 <div align="center">
-<img height="149em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PdrArth&show_icons=true&locale=en&layout=compact&size_weight=0.5&count_weight=0.5&theme=swift" alt="PdrArth" />
-<img height="140em" src="https://github-readme-stats.vercel.app/api/?username=PdrArth&show_icons=true&theme=swift" alt="PdrArth" />
+<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PdrArth&show_icons=true&locale=en&layout=compact&size_weight=0.5&count_weight=0.5&theme=swift" alt="PdrArth" />
+<img height="130em" src="https://github-readme-stats.vercel.app/api/?username=PdrArth&show_icons=true&theme=swift" alt="PdrArth" />
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
