@@ -5,7 +5,7 @@
 
 
 
-<img align="left" src="https://github.com/TryKatChup/TryKatChup/blob/main/cropped.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="250" /> 
+
 
 🏫 Sou estudante de Engenharia de Computação na Univiçosa.
 
