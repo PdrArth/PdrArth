@@ -25,8 +25,8 @@
 
 
 <div align="center">
-<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PdrArth&show_icons=true&locale=en&layout=compact&size_weight=0.5&count_weight=0.5&theme=swift" alt="PdrArth" />
-<img height="130em" src="https://github-readme-stats.vercel.app/api/?username=PdrArth&show_icons=true&theme=swift" alt="PdrArth" />
+<img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PdrArth&show_icons=true&locale=en&layout=compact&size_weight=0.5&count_weight=0.5&theme=swift" alt="PdrArth" />
+<img height="125em" src="https://github-readme-stats.vercel.app/api/?username=PdrArth&show_icons=true&theme=swift" alt="PdrArth" />
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
