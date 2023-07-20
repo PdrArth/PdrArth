@@ -1,18 +1,19 @@
 
-<img align="left" src="https://github.com/TryKatChup/TryKatChup/blob/main/cropped.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="300" /> 
+<img align="right" src="https://github.com/TryKatChup/TryKatChup/blob/main/cropped.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="300" /> 
 <h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/Olá.gif" height="30px">Eu sou Pedro Arthur, mas pode me chamar de Arth! </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PdrArth&color=blue" alt="Profile views" /> </p>
 
 
 
-
 🏫 Sou estudante de Engenharia de Computação na Univiçosa.
 
-🔎 Estou super interessado em me tornar um Desenvolvedor Mobile.
+🔎 Estou super interessado em me tornar um Desenvolvedor Android Nativo.
 
 🌱 No momento, estou aprendendo Kotlin e Java.
 
 🚩 As próximas linguagens que pretendo aprender são JavaScript, CSS-HTML e PHP.
+
+
 
 
 
@@ -26,8 +27,8 @@
 
 
 <div align="center">
-<img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PdrArth&show_icons=true&locale=en&layout=compact&size_weight=0.5&count_weight=0.5&theme=midnight-purple" alt="PdrArth" />
-<img height="145em" src="https://github-readme-stats.vercel.app/api/?username=PdrArth&show_icons=true&theme=midnight-purple" alt="PdrArth" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PdrArth&show_icons=true&locale=en&layout=compact&size_weight=0.5&count_weight=0.5&theme=swift" alt="PdrArth" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=PdrArth&show_icons=true&theme=swift" alt="PdrArth" />
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
