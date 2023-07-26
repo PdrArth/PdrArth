@@ -7,11 +7,11 @@
 
 🏫 Sou estudante de Engenharia de Computação na Univiçosa.
 
-🔎 Estou super interessado em me tornar um Desenvolvedor Android Nativo.
+🔎 Estou super interessado em me tornar um Desenvolvedor Android.
 
 🌱 No momento, estou aprendendo Kotlin e Java.
 
-🚩 As próximas linguagens que pretendo aprender são JavaScript, CSS-HTML e PHP.
+🚩 As próximas linguagens que pretendo aprender é Javascript/React Native.
 
 
 
