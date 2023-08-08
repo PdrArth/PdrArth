@@ -2,7 +2,6 @@
 <img align="right" src="https://github.com/TryKatChup/TryKatChup/blob/main/cropped.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="300" /> 
 <h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/Olá.gif" height="30px">Eu sou Pedro Arthur, mas pode me chamar de Arth! </h1>
 
-[![](https://visitcount.itsvg.in/api?id=PdrArth&icon=7&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
