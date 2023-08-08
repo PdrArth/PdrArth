@@ -1,9 +1,10 @@
 
 <img align="right" src="https://github.com/TryKatChup/TryKatChup/blob/main/cropped.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="300" /> 
 <h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/Olá.gif" height="30px">Eu sou Pedro Arthur, mas pode me chamar de Arth! </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=PdrArth&color=blue" alt="Profile views" /> </p>
 
+[![](https://visitcount.itsvg.in/api?id=PdrArth&icon=7&color=0)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 🏫 Sou estudante de Engenharia de Computação na Univiçosa.
 
@@ -23,13 +24,18 @@
 <a href="https://www.linkedin.com/in/pedro-arthur-o-a06007256/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
 
-
-
-
 <div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PdrArth&show_icons=true&locale=en&layout=compact&size_weight=0.5&count_weight=0.5&theme=swift" alt="PdrArth" />
-<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=PdrArth&show_icons=true&theme=swift" alt="PdrArth" />
-</div>
+   <a href="https://github.com/pdrarth">
+   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PdrArth&show_icons=true&theme=swift&include_all_commits=true&count_private=false"/>
+   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PdrArth&layout=compact&langs_count=6&theme=swift"/>
+
+
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
  
