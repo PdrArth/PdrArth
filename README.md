@@ -7,7 +7,7 @@
 
 🏫 Sou estudante de Engenharia de Computação na Univiçosa.
 
-🔎 Estou super interessado em me tornar um Desenvolvedor Android.
+🔎 Estou super interessado em me tornar um Desenvolvedor Mobile.
 
 🌱 No momento, estou aprendendo Kotlin e Java.
 
