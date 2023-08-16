@@ -25,8 +25,8 @@
 
 <div align="center">
    <a href="https://github.com/pdrarth">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/?username=pdrarth&show_icons=true&theme=codeSTACKr" alt="pdrarth" />
-    <img height="160em"alt="Pedro-language"  src= "https://github-readme-stats.vercel.app/api/top-langs/?username=PdrArth&hide=typescript,glsl&theme=codeSTACKr">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/?username=pdrarth&show_icons=true&theme=highcontrast" alt="pdrarth" />
+    <img height="160em"alt="Pedro-language"  src= "https://github-readme-stats.vercel.app/api/top-langs/?username=PdrArth&hide=typescript,glsl&theme=highcontrast">
 
 
 
