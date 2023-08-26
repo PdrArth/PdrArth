@@ -8,9 +8,9 @@
 
 🔎 Estou super interessado em me tornar um Desenvolvedor Mobile.
 
-🌱 No momento, estou aprendendo Kotlin e Java.
+🌱 No momento, estou aprendendo Java.
 
-🚩 As próximas linguagens que pretendo aprender é Javascript/React Native.
+🚩 As próximas linguagens que pretendo aprender é Kotlin e Javascript/React Native.
 
 
 
