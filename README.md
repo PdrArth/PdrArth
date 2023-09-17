@@ -26,8 +26,8 @@
 
 <div align="center">
    <a href="https://github.com/pdrarth">
-    <img height="160em"alt="Pedro-language"  src= "https://github-readme-stats.vercel.app/api/top-langs/?username=PdrArth&hide=typescript,glsl&theme=ayu-mirage">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/?username=pdrarth&show_icons=true&theme=ayu-mirage" alt="pdrarth" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdrarth&show_icons=true&locale=en&layout=compact&size_weight=0.5&count_weight=0.5&theme=codeSTACKr" alt="pdrarth" />;
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/?username=pdrarth&show_icons=true&theme=codeSTACKr" alt="pdrarth" />
 
 
 
