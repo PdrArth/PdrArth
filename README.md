@@ -10,7 +10,7 @@
 
 ⚡ No momento, estou focado no aprendizado de  Java e Kotlin.
 
-🖌️ Adoro Animes, Games e Astronomia.
+🖌️ Adoro Games e Astronomia.
 
 
 
