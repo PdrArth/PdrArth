@@ -6,11 +6,13 @@
 
 🏫 Sou estudante de Engenharia de Computação na Univiçosa.
 
-🔎 Estou super interessado em me tornar um Desenvolvedor Mobile.
+🔎 Estou super interessado em me tornar um Desenvolvedor Mobile ou Backend.
 
 ⚡ No momento, estou focado no aprendizado de  Java e Kotlin.
 
-🖌️ Adoro Games e Astronomia.
+⭐ Conhecimento em Metodologias Ágeis e GitHub.
+
+💖 Adoro Games e Astronomia.
 
 
 
