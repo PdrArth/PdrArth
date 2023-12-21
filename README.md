@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/PdrArth/PdrArth/blob/main/Imagem Minha.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width=40% /> 
+<img align="left" src="https://github.com/PdrArth/PdrArth/blob/main/imagem2.jpeg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width=40% /> 
 
 
 ## Sobre Mim:
