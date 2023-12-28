@@ -7,7 +7,7 @@
 
 🏫 Sou estudante de Engenharia de Computação na Univiçosa. <br /> 
 
-⚡ No momento, estou focado no aprendizado de Java e Kotlin.<br /> 
+⚡ No momento, estou focado no aprendizado de Java e Flutter.<br /> 
 
 💖 Adoro Games e Astronomia.<br /> 
 
