@@ -3,13 +3,13 @@
 
 ## Sobre Mim:
 
-👋 Olá sou o Pedro Arthur, mas pode me chamar de Arth! <br /> 
+👋 Olá sou o Pedro Arthur (Arth) <br /> 
 
 🏫 Sou estudante de Engenharia de Computação na Univiçosa. <br /> 
 
 ⚡ No momento, estou focado no aprendizado de Java e Flutter.<br /> 
 
-💖 Adoro Games e Astronomia.<br /> 
+⭐Os humanos refletem o que sentem porém.... <br /> 
 
 <img src="https://github.com/PdrArth/PdrArth/blob/main/lineBar.png" width="100%" height="8px"/>
 
