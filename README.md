@@ -1,4 +1,5 @@
-<img align="right" src="https://github.com/PdrArth/PdrArth/blob/main/imagem2.jpeg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width=40% /> 
+
+<img align="right" src="https://github.com/TryKatChup/TryKatChup/blob/main/cropped.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" /> 
 
 
 ## Sobre Mim:
@@ -8,12 +9,12 @@
 🏫 Sou estudante de Engenharia de Computação na Univiçosa. <br /> 
 
 ⚡ No momento, estou focado no aprendizado de Java e Flutter.<br /> 
-
-⭐Os humanos refletem o que sentem porém.... <br /> 
+<br /> 
 
 <img src="https://github.com/PdrArth/PdrArth/blob/main/lineBar.png" width="100%" height="8px"/>
-
 <div align="center">  
+
+
   
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pdrarth&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
   
