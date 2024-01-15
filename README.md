@@ -8,7 +8,7 @@
 
 🏫 Sou estudante de Engenharia de Computação na Univiçosa. <br /> 
 
-⚡ No momento, estou focado no aprendizado de Java e Flutter.<br /> 
+⚡ No momento, estou focado no aprendizado de Java e Kotlin.<br /> 
 <br /> 
 
 <img src="https://github.com/PdrArth/PdrArth/blob/main/lineBar.png" width="100%" height="8px"/>
