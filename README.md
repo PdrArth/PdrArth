@@ -1,5 +1,7 @@
 <img align="right" src="https://github.com/TryKatChup/TryKatChup/blob/main/cropped.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="300" /> 
 
+
+
 ## Sobre Mim:
 
 👋 Olá, sou o Pedro Arthur <br /> 
@@ -23,7 +25,6 @@
 <img src="https://github.com/PdrArth/PdrArth/blob/main/lineBar.png" width="100%" height="8px"/>
 
 ## Contato
-- [Instagram](https://instagram.com/pdrarth)
 - [Gmail](mailto:pedroarthurpdrarth@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/pdrarth/)
 
