@@ -4,11 +4,12 @@
 
 ## Sobre Mim:
 
-👋 Olá, sou o Pedro Arthur <br /> 
+👋 Olá, sou o Pedro Arthur <br />
 
 🏫 Sou estudante de Engenharia de Computação na Univiçosa. <br />
 
-📚 Atualmente, estou focado em aprender front-end (HTML, CSS, JavaScript) e back-end (Java).
+📚 Atualmente, estou focado em aprender desenvolvimento mobile com Kotlin e backend com Java.
+
 
  
 <br /> 
