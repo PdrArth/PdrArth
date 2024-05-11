@@ -1,23 +1,31 @@
-<img align="right" src="https://github.com/TryKatChup/TryKatChup/blob/main/cropped.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="300" /> 
+<h3 
+  align="center">
+    Hello World! Eu sou Pedro Arthur
+    <img 
+      src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" 
+      width="40" 
+      height="40"
+    />
+</h3>
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
-
-## Sobre Mim:
-
-👋 Olá, sou o Pedro Arthur <br />
-
-🏫 Sou estudante de Engenharia de Computação na Univiçosa. <br />
-
-📚 Atualmente, estou focado em aprender desenvolvimento mobile com Kotlin e backend com Java.
-
-
- 
+<h3>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Writing Hand Light Skin Tone" width="25" height="25" />
+  Sobre Mim:
+</h3>
+- 💻 Estudando para me torna um Desenvolvedor Mobile <br />
+<br /> 
+- 🌱Estudando Java e Kotlin
 <br /> 
 
 <img src="https://github.com/PdrArth/PdrArth/blob/main/lineBar.png" width="100%" height="8px"/>
 <div align="center">  
+ 
 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pdrarth&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
+
   
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdrarth&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
   
