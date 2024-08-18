@@ -50,7 +50,7 @@
 
 
 
-- [Gmail](mailto:pdrarthoficial@proton.me)
+- [Gmail](mailto:pedroarthurpdrarth@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/pdrarth/)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:5bffff&height=120&section=footer"/>
