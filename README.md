@@ -17,7 +17,7 @@
 </h3>
 -🥇 Cursando Engenharia de Computação <br /> 
 <br />
-- 💻 Estudando para me torna um Desenvolvedor Mobile <br /> 
+- 💻 Desenvolvedor Mobile e UI/UX Design <br /> 
 <br /> 
 - 🌱Constantemente em crescimento <br /> 
 <br /> 
