@@ -17,7 +17,7 @@
 </h3>
 -🥇 Cursando Engenharia de Computação <br /> 
 <br />
-- 💻 Desenvolvedor Mobile e UI/UX Design <br /> 
+- 💻 Desenvolvedor Mobile e UI Design <br /> 
 <br /> 
 - 🌱Constantemente em crescimento <br /> 
 <br /> 
