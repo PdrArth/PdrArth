@@ -1,56 +1,42 @@
-<h3 
-  align="center">
-    Olá! Eu sou Pedro Arthur
-    <img 
-      src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" 
-      width="40" 
-      height="40"
-    />
-</h3>
+<h1 align="center">👋 Olá! Seja Bem-Vindo(a) ao meu perfil!</h1>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-
-<h3>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Writing Hand Light Skin Tone" width="25" height="25" />
-  Sobre Mim:
-</h3>
--🥇 Cursando Engenharia de Computação <br /> 
-<br />
-- 💻 Desenvolvedor Mobile e UI Design <br /> 
-<br /> 
-- 🌱Constantemente em crescimento <br /> 
-<br /> 
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=25&center=true&vCenter=true&width=600&lines=Desenvolvedor+Mobile;UI%2FUX+Designer" />
+</p>
 
 <img src="https://github.com/PdrArth/PdrArth/blob/main/lineBar.png" width="100%" height="8px"/>
-<div align="center">  
 
-<h3>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" />
-  GitHub Stats
-</h3>
- 
 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pdrarth&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
+## 🧑‍💻 Sobre Mim
 
-  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdrarth&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
-  
+### 🎓 Formação
+Atualmente, estou cursando **Engenharia de Computação** e me especializando no ecossistema **Android**, utilizando **Kotlin** e **Java** para criar aplicações modernas e eficientes.
+
+### 📱 UI/UX Design
+Além do desenvolvimento mobile, tenho experiência em **UI/UX Design**, criando interfaces intuitivas e agradáveis para oferecer a melhor experiência ao usuário.
+
+### 🌟 Objetivo
+Meu foco é desenvolver aplicações **eficientes, escaláveis e acessíveis**, sempre aprimorando minhas habilidades e explorando novas tecnologias.
+
+<img src="https://github.com/PdrArth/PdrArth/blob/main/lineBar.png" width="100%" height="8px"/>
+
+## 🚀 Tecnologias & Ferramentas
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,figma,git,github,firebase,sqlite" height="50" alt="Tech Stack" />   
 </div>
 
 
 <img src="https://github.com/PdrArth/PdrArth/blob/main/lineBar.png" width="100%" height="8px"/>
 
-<p>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Down Light Skin Tone" width="16" height="16" />
-  Sinta-se livre para entrar em contato comigo
-</p>
+
+## 📊 Estatísticas
+
+<div align="center">
+   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pdrarth&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdrarth&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
+</div>
+
+<img src="https://github.com/PdrArth/PdrArth/blob/main/lineBar.png" width="100%" height="8px"/>
 
 
-
-
-- [Gmail](mailto:pedroarthurpdrarth@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/pdrarth/)
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:5bffff&height=120&section=footer"/>
