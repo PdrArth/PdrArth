@@ -18,7 +18,7 @@ Além do desenvolvimento mobile, tenho experiência em **UI/UX Design**, criando
 ### 🌟 Objetivo
 Meu foco é desenvolver aplicações **eficientes, escaláveis e acessíveis**, sempre aprimorando minhas habilidades e explorando novas tecnologias.
 
-<img src="https://github.com/PdrArth/PdrArth/blob/main/lineBar.png" width="100%" height="8px"/>
+---
 
 ## 🚀 Tecnologias & Ferramentas
 
@@ -26,9 +26,7 @@ Meu foco é desenvolver aplicações **eficientes, escaláveis e acessíveis**, 
   <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,figma,git,github,firebase,sqlite" height="50" alt="Tech Stack" />   
 </div>
 
-
-<img src="https://github.com/PdrArth/PdrArth/blob/main/lineBar.png" width="100%" height="8px"/>
-
+---
 
 ## 📊 Estatísticas
 
