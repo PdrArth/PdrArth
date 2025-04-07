@@ -22,7 +22,7 @@
 </h3>
 
 <ul>
-    <li>🏆 Cursando Ciência da computação</li>
+    <li>🏆 Cursando Engenharia de computação</li>
     <li>💻 Desenvolvedor Mobile</li>
     <li>🌱 Constantemente em crescimento e aprendizado</li>
 </ul>
