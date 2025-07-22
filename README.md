@@ -18,7 +18,6 @@
 - 🎓 Engenharia de Computação
 - 💻 2+ anos de experiência em desenvolvimento
 - 🌐 Full Stack & Mobile Developer
-- 🤖 Entusiasta de IA e automação
 - 🌱 Sempre aprendendo tecnologias novas
 
 <br clear="right"/>
