@@ -1,17 +1,8 @@
 <h1 align="center">
     Olá! Eu sou Pedro Arthur
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" 
-         alt="Waving Hand" 
-         width="35" 
-         height="35" />
+
 </h1>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" 
-     min-width="400px" 
-     max-width="400px" 
-     width="400px" 
-     align="right" 
-     alt="Computer illustration" />
 
 ## 🚀 Sobre Mim
 
