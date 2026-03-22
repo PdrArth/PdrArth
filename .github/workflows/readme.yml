@@ -22,7 +22,7 @@ jobs:
           user: PdrArth
           template: classic
           commits_authoring: PdrArth, Pedro Arthur, Pedro Arthur O. Januário, 129990196+PdrArth@users.noreply.github.com, pedroarthurpdrarth@gmail.com
-          base: header, community, metadata
+          base: header, activity, community, repositories, metadata
           config_timezone: America/Sao_Paulo
           plugin_languages: yes
           plugin_languages_details: lines, percentage
