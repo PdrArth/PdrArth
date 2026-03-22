@@ -18,15 +18,23 @@ jobs:
           filename: github-metrics.svg
           user: PdrArth
           template: classic
+          commits_authoring: PdrArth, Pedro Arthur, Pedro Arthur O. Januário, 129990196+PdrArth@users.noreply.github.com, pedroarthurpdrarth@gmail.com
           base: header, activity, community, repositories, metadata
           config_timezone: America/Sao_Paulo
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_load: 300
+          plugin_activity_days: 30
+          plugin_activity_visibility: all
+          plugin_activity_timestamps: yes
           plugin_gists: yes
           plugin_languages: yes
-          plugin_languages_analysis_timeout: 15
-          plugin_languages_analysis_timeout_repositories: 7.5
+          plugin_languages_indepth: yes
+          plugin_languages_analysis_timeout: 20
+          plugin_languages_analysis_timeout_repositories: 10
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
-          plugin_languages_ignored: html, shell, dart, typescript, cmake
+          plugin_languages_ignored: shell, cmake
           plugin_languages_limit: 8
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
