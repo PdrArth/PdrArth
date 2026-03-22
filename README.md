@@ -3,26 +3,26 @@
 ### Hi, friends
 
 - Computer Engineering student
-- Full Stack, mobile, and product-minded software builder
+- Full Stack & Mobile Developer
 
 --------------------
 
-- Working mostly with Kotlin/Android and React/TypeScript
-- Growing focus on AI software and product delivery
-- Building personal apps and practical experiments
+- 2+ years building software
+- Working with React, Kotlin, and TypeScript
+- **PT-BR-1, EN-1**
 
 --------------------
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=PdrArth&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent)](https://github.com/PdrArth)
+[![streak](https://streak-stats.demolab.com?user=PdrArth&hide_border=true&background=FFFFFF00)](https://github.com/PdrArth)
 
 --------------------
 
-Current apps: `ArthMovies`, `Meu-Portfolio-App`, `ConsultaCEP`
+❤️ Building useful software across web, mobile, and AI
 
 --------------------
 
-![:PdrArth](https://count.getloli.com/get/@:PdrArth)
+![:pdrarth](https://count.getloli.com/get/@:pdrarth)
 
 --------------------
 
-[LinkedIn](https://www.linkedin.com/in/pdrarth/) | [Email](mailto:pedroarthurpdrarth@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/pdrarth/)
