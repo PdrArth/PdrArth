@@ -19,7 +19,7 @@ jobs:
           user: PdrArth
           template: classic
           commits_authoring: PdrArth, Pedro Arthur, Pedro Arthur O. Januário, 129990196+PdrArth@users.noreply.github.com, pedroarthurpdrarth@gmail.com
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, metadata
           config_timezone: America/Sao_Paulo
           plugin_calendar: yes
           plugin_calendar_limit: 0
@@ -28,7 +28,7 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_analysis_timeout: 30
           plugin_languages_analysis_timeout_repositories: 15
-          plugin_languages_categories: markup, programming
+          plugin_languages_categories: programming
           plugin_languages_colors: github
           plugin_languages_ignored: Shell, CMake, TSX, PLpgSQL
           plugin_languages_limit: 8
