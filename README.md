@@ -1,27 +1,27 @@
-### Hi, I'm Pedro Arthur
+![banner](github-metrics.svg)
+
+### Hi, friends
 
 - Computer Engineering student
-- Full Stack & Mobile Developer
-- Building product-minded software with a growing focus on AI
+- Full Stack, mobile, and product-minded software builder
 
 --------------------
 
-- 2+ years building software
-- React/TypeScript on the frontend
-- Kotlin/Android on the mobile side
+- Working mostly with Kotlin/Android and React/TypeScript
+- Growing focus on AI software and product delivery
+- Building personal apps and practical experiments
 
 --------------------
 
-[![Meu-Portfolio-App](https://github-readme-stats.vercel.app/api/pin/?username=PdrArth&repo=Meu-Portfolio-App&theme=transparent)](https://github.com/PdrArth/Meu-Portfolio-App)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=PdrArth&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent)](https://github.com/PdrArth)
 
 --------------------
 
-Featured project: [ArthMovies](https://github.com/PdrArth/ArthMovies)  
-Android movie explorer with a modern Material Design feel.
+Current apps: `ArthMovies`, `Meu-Portfolio-App`, `ConsultaCEP`
 
 --------------------
 
-![Profile views](https://komarev.com/ghpvc/?username=PdrArth&label=Profile%20views&color=0e75b6&style=flat)
+![:PdrArth](https://count.getloli.com/get/@:PdrArth)
 
 --------------------
 
