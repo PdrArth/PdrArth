@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="420" viewBox="0 0 960 420" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub metrics placeholder</title>
+  <desc id="desc">Placeholder banner shown until the GitHub Actions workflow generates live metrics.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="50%" stop-color="#111827" />
+      <stop offset="100%" stop-color="#1d4ed8" />
+    </linearGradient>
+  </defs>
+  <rect width="960" height="420" fill="url(#bg)" rx="24" />
+  <g fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif">
+    <text x="72" y="120" font-size="46" font-weight="700">Pedro Arthur</text>
+    <text x="72" y="172" font-size="24" opacity="0.9">GitHub metrics banner</text>
+    <text x="72" y="238" font-size="20" opacity="0.85">This placeholder will be replaced after the Metrics workflow runs.</text>
+    <text x="72" y="276" font-size="20" opacity="0.85">Required repository secret: METRICS_TOKEN</text>
+    <text x="72" y="332" font-size="18" opacity="0.7">.github/workflows/readme.yml</text>
+  </g>
+</svg>
