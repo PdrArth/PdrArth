@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="420" viewBox="0 0 960 420" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="160" viewBox="0 0 960 160" role="img" aria-labelledby="title desc">
   <title id="title">GitHub metrics placeholder</title>
   <desc id="desc">Placeholder banner shown until the GitHub Actions workflow generates live metrics.</desc>
   <defs>
@@ -8,12 +8,10 @@
       <stop offset="100%" stop-color="#1d4ed8" />
     </linearGradient>
   </defs>
-  <rect width="960" height="420" fill="url(#bg)" rx="24" />
+  <rect width="960" height="160" fill="url(#bg)" rx="24" />
   <g fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif">
-    <text x="72" y="120" font-size="46" font-weight="700">Pedro Arthur</text>
-    <text x="72" y="172" font-size="24" opacity="0.9">GitHub metrics banner</text>
-    <text x="72" y="238" font-size="20" opacity="0.85">This placeholder will be replaced after the Metrics workflow runs.</text>
-    <text x="72" y="276" font-size="20" opacity="0.85">Required repository secret: METRICS_TOKEN</text>
-    <text x="72" y="332" font-size="18" opacity="0.7">.github/workflows/readme.yml</text>
+    <text x="48" y="68" font-size="34" font-weight="700">Pedro Arthur</text>
+    <text x="48" y="104" font-size="20" opacity="0.88">Metrics banner pending GitHub Actions run</text>
+    <text x="48" y="132" font-size="16" opacity="0.72">Set METRICS_TOKEN and run the Metrics workflow to replace this placeholder.</text>
   </g>
 </svg>
