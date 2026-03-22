@@ -8,16 +8,16 @@
 --------------------
 
 - 2+ years building software
-- Working with React, Kotlin, and TypeScript
+- I build web, mobile, and AI projects
 - **PT-BR-1, EN-1**
 
 --------------------
 
-[![streak](https://streak-stats.demolab.com?user=PdrArth&hide_border=true&background=FFFFFF00)](https://github.com/PdrArth)
+[![ArthMovies](https://github-readme-stats.vercel.app/api/pin/?username=PdrArth&repo=ArthMovies&show_owner=false&hide_border=true&bg_color=00000000)](https://github.com/PdrArth/ArthMovies)
 
 --------------------
 
-❤️ Building useful software across web, mobile, and AI
+❤️ [Meu-Portfolio-App](https://github.com/PdrArth/Meu-Portfolio-App)
 
 --------------------
 
@@ -25,4 +25,4 @@
 
 --------------------
 
-[LinkedIn](https://www.linkedin.com/in/pdrarth/)
+[Contact me](https://www.linkedin.com/in/pdrarth/)
