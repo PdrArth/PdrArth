@@ -26,7 +26,7 @@ jobs:
           config_timezone: America/Sao_Paulo
           plugin_languages: yes
           plugin_languages_indepth: yes
-          plugin_languages_indepth_custom: Donega-Negocios-Digitais/obsidian-note-reviewer, winfrabria/saas-winfrabr-monitor-licitacao, PdrArth/ProjetoCopillot
+          plugin_languages_indepth_custom: Donega-Negocios-Digitais/obsidian-note-reviewer, winfrabria/saas-winfrabr-monitor-licitacao, PdrArth/ProjetoCopillot, PdrArth/projeto-estoque
           plugin_languages_analysis_timeout: 60
           plugin_languages_analysis_timeout_repositories: 15
           plugin_languages_categories: programming
