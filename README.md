@@ -1,5 +1,3 @@
-![banner](profile-metrics.svg)
-
 ### Hi, I'm Pedro Arthur
 
 - Computer Engineering student
