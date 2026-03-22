@@ -1,28 +1,17 @@
 ![banner](github-metrics.svg)
 
-### Hi, friends
+### Product Manager e Engenheiro de Software com IA
 
-- Computer Engineering student
-- Full Stack & Mobile Developer
-
---------------------
-
-- 2+ years building software
-- I build web, mobile, and AI projects
-- **PT-BR-1, EN-1**
+- 4+ anos desenvolvendo produtos digitais e sistemas web/mobile
+- Foco em automacao, eficiencia operacional e impacto direto em negocios
+- Atuacao na intersecao entre produto, engenharia e inteligencia artificial
 
 --------------------
 
-[![ArthMovies](https://github-readme-stats.vercel.app/api/pin/?username=PdrArth&repo=ArthMovies&show_owner=false&hide_border=true&bg_color=00000000)](https://github.com/PdrArth/ArthMovies)
+- Lideranca tecnica e de produto, Product Discovery e evolucao de roadmap
+- Desenvolvimento full-stack e mobile com Python, Node.js, React, Java, Kotlin e React Native
+- Construcao de solucoes escalaveis com IA, automacao e validacao continua
 
 --------------------
 
-❤️ [Meu-Portfolio-App](https://github.com/PdrArth/Meu-Portfolio-App)
-
---------------------
-
-![:pdrarth](https://count.getloli.com/get/@:pdrarth)
-
---------------------
-
-[Contact me](https://www.linkedin.com/in/pdrarth/)
+[LinkedIn](https://www.linkedin.com/in/pdrarth/) | [Email](mailto:pedroarthurpdrarth@gmail.com)
