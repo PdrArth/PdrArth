@@ -1,4 +1,4 @@
-![banner](github-metrics.svg)
+![banner](profile-metrics.svg)
 
 ### Hi, I'm Pedro Arthur
 
