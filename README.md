@@ -32,8 +32,6 @@ Utiliza arquitetura offline-first, armazenamento local, fila de operações e si
 
 ![Contributions](github-isocalendar.svg)
 
-![Technologies](github-topics.svg)
-
 ## Contato
 
 [LinkedIn](https://www.linkedin.com/in/pdrarth/) · [Email](mailto:pedroarthurpdrarth@gmail.com)
