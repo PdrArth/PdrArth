@@ -26,25 +26,15 @@ Aplicação desktop desenvolvida com Rust, Tauri e React.
 
 Utiliza arquitetura offline-first, armazenamento local, fila de operações e sincronização automática com a nuvem para manter o sistema funcional mesmo sem conexão.
 
-## GitHub Analytics
+## GitHub
 
 ![Metrics](github-metrics.svg)
 
-## Contribuições
+![Contributions](github-isocalendar.svg)
 
-![Isometric Calendar](github-isocalendar.svg)
+![Coding habits](github-habits.svg)
 
-## Coding Activity
-
-![Coding Habits](github-habits.svg)
-
-## Tecnologias
-
-![Technology Topics](github-topics.svg)
-
-## Projetos no GitHub
-
-![Featured Repositories](github-repositories.svg)
+![Technologies](github-topics.svg)
 
 ## Contato
 
