@@ -30,7 +30,9 @@ Utiliza arquitetura offline-first, armazenamento local, fila de operações e si
 
 ![Metrics](github-metrics.svg)
 
-![Contributions](github-isocalendar.svg)
+### Contribuições
+
+![Isometric calendar](github-isocalendar.svg)
 
 ## Contato
 
