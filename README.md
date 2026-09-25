@@ -32,8 +32,6 @@ Utiliza arquitetura offline-first, armazenamento local, fila de operações e si
 
 ![Contributions](github-isocalendar.svg)
 
-![Coding habits](github-habits.svg)
-
 ![Technologies](github-topics.svg)
 
 ## Contato
