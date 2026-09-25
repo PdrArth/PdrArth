@@ -1,5 +1,4 @@
-# Visit https://github.com/lowlighter/metrics#-documentation for full reference
-name: Metrics
+name: GitHub Profile Metrics
 
 on:
   push:
@@ -12,29 +11,112 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+
     permissions:
       contents: write
+
     steps:
-      - uses: lowlighter/metrics@latest
+
+      # MÉTRICAS PRINCIPAIS
+      - name: Main Metrics
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-metrics.svg
           user: PdrArth
           template: classic
-          commits_authoring: PdrArth, Pedro Arthur, Pedro Arthur O. Januário, 129990196+PdrArth@users.noreply.github.com, pedroarthurpdrarth@gmail.com
+
+          commits_authoring: >-
+            PdrArth,
+            Pedro Arthur,
+            Pedro Arthur O. Januário,
+            129990196+PdrArth@users.noreply.github.com,
+            pedroarthurpdrarth@gmail.com
+
           base: header, activity, community, repositories, metadata
+
           config_timezone: America/Sao_Paulo
+
           plugin_languages: yes
           plugin_languages_indepth: yes
-          plugin_languages_indepth_custom: Donega-Negocios-Digitais/obsidian-note-reviewer, winfrabria/saas-winfrabr-monitor-licitacao, PdrArth/ProjetoCopillot, PdrArth/projeto-estoque
+
+          plugin_languages_indepth_custom: >-
+            Donega-Negocios-Digitais/obsidian-note-reviewer,
+            winfrabria/saas-winfrabr-monitor-licitacao,
+            PdrArth/ProjetoCopillot,
+            PdrArth/projeto-estoque
+
           plugin_languages_analysis_timeout: 60
           plugin_languages_analysis_timeout_repositories: 15
+
           plugin_languages_categories: programming
           plugin_languages_colors: github
-          plugin_languages_ignored: Shell, CMake, PLpgSQL, XML, JSON, Markdown, INI
+
+          plugin_languages_ignored: >-
+            Shell,
+            CMake,
+            PLpgSQL,
+            XML,
+            JSON,
+            Markdown,
+            INI
+
           plugin_languages_limit: 8
-          plugin_languages_recent_categories: programming
-          plugin_languages_recent_days: 14
-          plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
+
+
+      # CALENDÁRIO ISOMÉTRICO DE COMMITS
+      - name: Isometric Commit Calendar
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: github-isocalendar.svg
+          user: PdrArth
+
+          base: ""
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          config_timezone: America/Sao_Paulo
+
+
+      # ATIVIDADE RECENTE
+      - name: Recent Activity
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: github-activity.svg
+          user: PdrArth
+
+          base: ""
+
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 0
+
+          plugin_activity_filter: >-
+            issue,
+            pr,
+            release,
+            fork,
+            review,
+            ref/create
+
+          config_timezone: America/Sao_Paulo
+
+
+      # ACHIEVEMENTS
+      - name: GitHub Achievements
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: github-achievements.svg
+          user: PdrArth
+
+          base: ""
+
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: X
