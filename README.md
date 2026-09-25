@@ -2,33 +2,20 @@
 
 ### AI Software Engineer | Full-Stack | Mobile
 
-Desenvolvo aplicações web, mobile e desktop, trabalhando com
-engenharia de software, IA aplicada, automação e visão de produto.
+Desenvolvo aplicações web, mobile e desktop com foco em engenharia de software, IA aplicada, automação e visão de produto.
 
-Atualmente atuo principalmente com:
+**Tech:** React · TypeScript · Node.js · Python · Kotlin · Java · Android · Rust · Tauri · PostgreSQL · APIs
 
-- Full-Stack Development
-- AI Engineering & LLM Workflows
-- React / TypeScript / Node.js
-- Python
-- Kotlin / Java / Android
-- Rust / Tauri
-- PostgreSQL
-- APIs & Systems Integration
+## Projetos
 
-## Projetos em destaque
+**AI Expense Auditor**  
+Web/PWA para análise de notas fiscais com Gemini, GPT, regras de negócio e revisão humana.
 
-### AI Expense Auditor
-Web/PWA para análise de notas fiscais utilizando Gemini, GPT,
-regras de negócio e revisão humana.
+**AI Plan Reviewer**  
+Workflow human-in-the-loop integrado ao Claude Code CLI e interface web para revisão e aprovação antes da execução.
 
-### AI Plan Reviewer
-Sistema human-in-the-loop integrado ao Claude Code CLI,
-hooks e aplicação web para revisão e aprovação antes da execução.
-
-### Offline Inventory System
-Aplicação desktop construída com Rust, Tauri e React,
-com arquitetura offline-first e sincronização com a nuvem.
+**Offline Inventory System**  
+Aplicação desktop com Rust, Tauri e React, arquitetura offline-first e sincronização com a nuvem.
 
 ## GitHub
 
@@ -38,15 +25,6 @@ com arquitetura offline-first e sincronização com a nuvem.
 
 ![Isometric calendar](github-isocalendar.svg)
 
-### Atividade recente
-
-![Recent activity](github-activity.svg)
-
-### Achievements
-
-![Achievements](github-achievements.svg)
-
 ## Contato
 
-[LinkedIn](https://www.linkedin.com/in/pdrarth/) ·
-[Email](mailto:pedroarthurpdrarth@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/pdrarth/) · [Email](mailto:pedroarthurpdrarth@gmail.com)
