@@ -2,28 +2,49 @@
 
 ### AI Software Engineer | Full-Stack | Mobile
 
-Desenvolvo aplicações web, mobile e desktop com foco em engenharia de software, IA aplicada, automação e visão de produto.
+Desenvolvo produtos e sistemas web, mobile e desktop combinando engenharia de software, IA aplicada, automação e visão de produto.
 
-**Tech:** React · TypeScript · Node.js · Python · Kotlin · Java · Android · Rust · Tauri · PostgreSQL · APIs
+Atuo principalmente com arquiteturas full-stack, integrações, aplicações offline-first, workflows com LLMs e sistemas human-in-the-loop.
 
-## Projetos
+**Principais tecnologias:**  
+React · TypeScript · Node.js · Python · Kotlin · Java · Android · Rust · Tauri · PostgreSQL · REST APIs
 
-**AI Expense Auditor**  
-Web/PWA para análise de notas fiscais com Gemini, GPT, regras de negócio e revisão humana.
+## Projetos em destaque
 
-**AI Plan Reviewer**  
-Workflow human-in-the-loop integrado ao Claude Code CLI e interface web para revisão e aprovação antes da execução.
+### AI Expense Auditor
+Plataforma Web/PWA para auditoria de notas fiscais utilizando Gemini, GPT, regras de negócio e revisão humana.
 
-**Offline Inventory System**  
-Aplicação desktop com Rust, Tauri e React, arquitetura offline-first e sincronização com a nuvem.
+O sistema recebe documentos em imagem ou PDF, processa múltiplas análises em fila e direciona ao responsável financeiro apenas os casos com possíveis inconsistências.
 
-## GitHub
+### AI Plan Reviewer
+Sistema human-in-the-loop integrado ao Claude Code CLI, hooks e aplicação web.
+
+Permite revisão visual de planos, comentários por bloco, feedback estruturado ao agente, regeneração e aprovação humana antes da execução.
+
+### Offline Inventory System
+Aplicação desktop desenvolvida com Rust, Tauri e React.
+
+Utiliza arquitetura offline-first, armazenamento local, fila de operações e sincronização automática com a nuvem para manter o sistema funcional mesmo sem conexão.
+
+## GitHub Analytics
 
 ![Metrics](github-metrics.svg)
 
-### Contribuições
+## Contribuições
 
-![Isometric calendar](github-isocalendar.svg)
+![Isometric Calendar](github-isocalendar.svg)
+
+## Coding Activity
+
+![Coding Habits](github-habits.svg)
+
+## Tecnologias
+
+![Technology Topics](github-topics.svg)
+
+## Projetos no GitHub
+
+![Featured Repositories](github-repositories.svg)
 
 ## Contato
 
