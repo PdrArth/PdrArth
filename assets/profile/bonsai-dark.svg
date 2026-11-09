@@ -1,12 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="225" height="210" viewBox="0 0 225 210" fill="none" role="img" aria-labelledby="title">
 <title id="title">Pequeno bonsai verde em um vaso de terracota.</title>
+<style>.foliage-left{transform-origin:85px 119px;animation:sway-left 4.6s ease-in-out infinite}.foliage-right{transform-origin:123px 75px;animation:sway-right 5.4s ease-in-out infinite}@keyframes sway-left{0%,100%{transform:rotate(-2deg)}50%{transform:rotate(3deg) translateX(1.5px)}}@keyframes sway-right{0%,100%{transform:rotate(2deg)}50%{transform:rotate(-3deg) translateX(-1.5px)}}@media(prefers-reduced-motion:reduce){*{animation:none!important;stroke-dashoffset:0!important;opacity:1!important}}</style>
 <g stroke="#eef1eb" stroke-linecap="round" stroke-linejoin="round">
 <path d="M6 190H218" stroke-width="1.5"/>
 <path d="M109 157c-1-23 15-33 18-52 3-17-9-23-5-42M116 133c-4-18-22-25-29-42M123 112c17-17 34-21 42-42M126 98c-13-3-19-14-24-25M140 95c-1-11 4-21 12-29" stroke-width="2.2"/>
 <path d="M103 157c7-5 16-5 25 0" fill="#eef1eb" stroke-width="1.2"/>
 </g>
-<path d="M66 82c-13-1-24 6-23 16-16 2-20 17-10 25 8 7 21 6 31 1 9 7 23 5 30-2 15 3 29-3 27-15-1-9-8-14-19-15-6-13-24-17-36-10Z" fill="#9bb985"/>
-<path d="M122 37c-9-13-29-12-38 0-17-2-29 7-27 19 2 12 16 17 29 15 7 11 27 11 38 4 9 6 22 4 27-4 18 4 36-5 32-18-3-11-17-16-29-13-5-9-21-10-32-3Z" fill="#b6ce9e" transform="translate(31 -8)"/>
+<path class="foliage-left" d="M66 82c-13-1-24 6-23 16-16 2-20 17-10 25 8 7 21 6 31 1 9 7 23 5 30-2 15 3 29-3 27-15-1-9-8-14-19-15-6-13-24-17-36-10Z" fill="#9bb985"/>
+<g transform="translate(31 -8)"><path class="foliage-right" d="M122 37c-9-13-29-12-38 0-17-2-29 7-27 19 2 12 16 17 29 15 7 11 27 11 38 4 9 6 22 4 27-4 18 4 36-5 32-18-3-11-17-16-29-13-5-9-21-10-32-3Z" fill="#b6ce9e"/></g>
 <g stroke="#eef1eb" stroke-width="1.6" stroke-linejoin="round">
 <path d="M80 163h66l-5 22q-1 5-7 5H91q-7 0-8-5Z" fill="#d98d68"/>
 <rect x="77" y="157" width="72" height="11" rx="2" fill="#e7a17c"/>
