@@ -7,11 +7,11 @@
 </picture>
 
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/profile/bonsai-heading-mobile-dark.svg?v=motion2">
-  <source media="(max-width: 600px)" srcset="./assets/profile/bonsai-heading-mobile-light.svg?v=motion2">
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/bonsai-heading-dark.svg?v=motion2">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/profile/bonsai-heading-light.svg?v=motion2">
-  <img src="./assets/profile/bonsai-heading-light.svg?v=motion2" alt="Pedro Arthur — AI Software Engineer." width="64%">
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/profile/bonsai-name-mobile-dark.svg?v=motion2">
+  <source media="(max-width: 600px)" srcset="./assets/profile/bonsai-name-mobile-light.svg?v=motion2">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/bonsai-name-dark.svg?v=motion2">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/profile/bonsai-name-light.svg?v=motion2">
+  <img src="./assets/profile/bonsai-name-light.svg?v=motion2" alt="Pedro Arthur — AI Software Engineer." width="64%">
 </picture>
 
 <p>
