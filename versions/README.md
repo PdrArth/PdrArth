@@ -1,6 +1,6 @@
 # Versões do perfil
 
-Três cenários animados para comparar. Abra uma versão para ver o README completo.
+Quatro temas animados para o perfil. Abra uma versão para ver o README completo.
 
 <table>
   <tr>
@@ -12,10 +12,10 @@ Três cenários animados para comparar. Abra uma versão para ver o README compl
 
 Os três cenários têm animação em loop, uma composição própria para celular e contatos clicáveis dentro da arte.
 
-### Versões anteriores
+### Bonsai
 
-[Origami](origami/README.md) · [Monograma](monograma/README.md) · [Tipografia](tipografia/README.md) · [Bonsai](bonsai/README.md)
+[Abrir o tema Bonsai](bonsai/README.md)
 
-As quatro versões usam SVGs animados e links clicáveis. As cores se adaptam ao tema do visitante. No modo de movimento reduzido, os movimentos ficam mais lentos ou menores.
+O bonsai usa SVGs animados e cores que se adaptam ao tema claro ou escuro do visitante. No modo de movimento reduzido, os movimentos ficam mais lentos ou menores.
 
 Para usar outra versão no perfil, copie seu README para a raiz e troque `../../assets/profile` por `./assets/profile`.
