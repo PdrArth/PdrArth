@@ -5,7 +5,7 @@
   <source media="(max-width: 600px)" srcset="../../assets/profile/monograma-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="../../assets/profile/monograma-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="../../assets/profile/monograma-light.svg">
-  <img src="../../assets/profile/monograma-light.svg" alt="Monograma PA. Pedro Arthur — AI Software Engineer." width="75%" align="left">
+  <img src="../../assets/profile/monograma-light.svg" alt="Monograma PA. Pedro Arthur — AI Software Engineer." width="65%" align="left">
 </picture>
 
 <p align="right">

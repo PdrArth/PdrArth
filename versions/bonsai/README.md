@@ -11,7 +11,7 @@
   <source media="(max-width: 600px)" srcset="../../assets/profile/bonsai-heading-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="../../assets/profile/bonsai-heading-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="../../assets/profile/bonsai-heading-light.svg">
-  <img src="../../assets/profile/bonsai-heading-light.svg" alt="oi, eu sou o Pedro. Pedro Arthur — AI Software Engineer." width="70%">
+  <img src="../../assets/profile/bonsai-heading-light.svg" alt="oi, eu sou o Pedro. Pedro Arthur — AI Software Engineer." width="64%">
 </picture>
 
 <p>
