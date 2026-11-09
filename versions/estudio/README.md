@@ -1,8 +1,1 @@
-<picture>
-  <source media="(max-width: 600px)" srcset="../../assets/profile/scenes/estudio-mobile.png">
-  <img src="../../assets/profile/scenes/estudio.png" alt="Pedro Arthur — AI Software Engineer. Um pequeno estúdio iluminado pelo sol, com a cortina balançando." width="100%">
-</picture>
-
-<p align="right">
-  <a href="https://pdrarth.vercel.app/">Portfólio</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/pdrarth/">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:pedroarthurpdrarth@gmail.com">Email</a>
-</p>
+<p><picture><source media="(max-width: 600px)" srcset="../../assets/profile/scenes/estudio/header-mobile.png"><img src="../../assets/profile/scenes/estudio/header.png" width="100%" align="top" alt="Pedro Arthur — AI Software Engineer. Um estúdio iluminado pelo sol, com a cortina balançando."></picture><a href="https://pdrarth.vercel.app/" aria-label="Portfólio"><picture><source media="(max-width: 600px)" srcset="../../assets/profile/scenes/estudio/portfolio-mobile.png"><img src="../../assets/profile/scenes/estudio/portfolio.png" width="100%" align="top" alt="Portfólio"></picture></a><a href="https://www.linkedin.com/in/pdrarth/" aria-label="LinkedIn"><picture><source media="(max-width: 600px)" srcset="../../assets/profile/scenes/estudio/linkedin-mobile.png"><img src="../../assets/profile/scenes/estudio/linkedin.png" width="100%" align="top" alt="LinkedIn"></picture></a><a href="mailto:pedroarthurpdrarth@gmail.com" aria-label="Email"><picture><source media="(max-width: 600px)" srcset="../../assets/profile/scenes/estudio/email-mobile.png"><img src="../../assets/profile/scenes/estudio/email.png" width="100%" align="top" alt="Email"></picture></a><picture><source media="(max-width: 600px)" srcset="../../assets/profile/scenes/estudio/footer-mobile.png"><img src="../../assets/profile/scenes/estudio/footer.png" width="100%" align="top" alt=""></picture></p>

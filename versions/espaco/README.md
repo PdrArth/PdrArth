@@ -1,8 +1,1 @@
-<picture>
-  <source media="(max-width: 600px)" srcset="../../assets/profile/scenes/espaco-mobile.png">
-  <img src="../../assets/profile/scenes/espaco.png" alt="Pedro Arthur — AI Software Engineer. A Terra vista do espaço, com um satélite flutuando." width="100%">
-</picture>
-
-<p align="right">
-  <a href="https://pdrarth.vercel.app/">Portfólio</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/pdrarth/">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:pedroarthurpdrarth@gmail.com">Email</a>
-</p>
+<p><picture><source media="(max-width: 600px)" srcset="../../assets/profile/scenes/espaco/header-mobile.png"><img src="../../assets/profile/scenes/espaco/header.png" width="100%" align="top" alt="Pedro Arthur — AI Software Engineer. A Terra vista do espaço, com um satélite flutuando."></picture><a href="https://pdrarth.vercel.app/" aria-label="Portfólio"><picture><source media="(max-width: 600px)" srcset="../../assets/profile/scenes/espaco/portfolio-mobile.png"><img src="../../assets/profile/scenes/espaco/portfolio.png" width="100%" align="top" alt="Portfólio"></picture></a><a href="https://www.linkedin.com/in/pdrarth/" aria-label="LinkedIn"><picture><source media="(max-width: 600px)" srcset="../../assets/profile/scenes/espaco/linkedin-mobile.png"><img src="../../assets/profile/scenes/espaco/linkedin.png" width="100%" align="top" alt="LinkedIn"></picture></a><a href="mailto:pedroarthurpdrarth@gmail.com" aria-label="Email"><picture><source media="(max-width: 600px)" srcset="../../assets/profile/scenes/espaco/email-mobile.png"><img src="../../assets/profile/scenes/espaco/email.png" width="100%" align="top" alt="Email"></picture></a><picture><source media="(max-width: 600px)" srcset="../../assets/profile/scenes/espaco/footer-mobile.png"><img src="../../assets/profile/scenes/espaco/footer.png" width="100%" align="top" alt=""></picture></p>
