@@ -1,11 +1,11 @@
 <br>
 
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="../../assets/profile/monograma-mobile-dark.svg">
-  <source media="(max-width: 600px)" srcset="../../assets/profile/monograma-mobile-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="../../assets/profile/monograma-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="../../assets/profile/monograma-light.svg">
-  <img src="../../assets/profile/monograma-light.svg" alt="Monograma PA. Pedro Arthur — AI Software Engineer." width="65%" align="left">
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="../../assets/profile/monograma-mobile-dark.svg?v=motion2">
+  <source media="(max-width: 600px)" srcset="../../assets/profile/monograma-mobile-light.svg?v=motion2">
+  <source media="(prefers-color-scheme: dark)" srcset="../../assets/profile/monograma-dark.svg?v=motion2">
+  <source media="(prefers-color-scheme: light)" srcset="../../assets/profile/monograma-light.svg?v=motion2">
+  <img src="../../assets/profile/monograma-light.svg?v=motion2" alt="Monograma PA. Pedro Arthur — AI Software Engineer." width="65%" align="left">
 </picture>
 
 <p align="right">

@@ -1,9 +1,9 @@
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="../../assets/profile/tipografia-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="../../assets/profile/tipografia-light.svg">
-  <img src="../../assets/profile/tipografia-light.svg" alt="Pedro Arthur" width="34%" align="left">
+  <source media="(prefers-color-scheme: dark)" srcset="../../assets/profile/tipografia-dark.svg?v=motion2">
+  <source media="(prefers-color-scheme: light)" srcset="../../assets/profile/tipografia-light.svg?v=motion2">
+  <img src="../../assets/profile/tipografia-light.svg?v=motion2" alt="Pedro Arthur" width="34%" align="left">
 </picture>
 
 <br>

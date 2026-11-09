@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="340" height="185" viewBox="0 0 340 185" fill="none" role="img" aria-labelledby="title">
 <title id="title">Pedro Arthur — AI Software Engineer. Origami de um pássaro.</title>
-<style>.bird{animation:float 4.8s ease-in-out infinite;transform-origin:50px 50px}.wing{animation:flap 2.4s ease-in-out infinite;transform-origin:52px 56px}@keyframes float{0%,100%{transform:translateY(3px) rotate(-2deg)}50%{transform:translateY(-3px) rotate(2deg)}}@keyframes flap{0%,100%{transform:rotate(-7deg)}50%{transform:rotate(9deg)}}@media(prefers-reduced-motion:reduce){*{animation:none!important;stroke-dashoffset:0!important;opacity:1!important}}</style>
+<style>.bird{animation:float 4.8s ease-in-out infinite;transform-origin:50px 50px}.wing{animation:flap 2.4s ease-in-out infinite;transform-origin:52px 56px}@keyframes float{0%,100%{transform:translateY(3px) rotate(-2deg)}50%{transform:translateY(-3px) rotate(2deg)}}@keyframes flap{0%,100%{transform:rotate(-7deg)}50%{transform:rotate(9deg)}}@media(prefers-reduced-motion:reduce){.bird{animation:float-small 8s ease-in-out infinite}.wing{animation:flap-small 8s ease-in-out infinite}}@keyframes float-small{0%,100%{transform:translateY(1px)}50%{transform:translateY(-1px)}}@keyframes flap-small{0%,100%{transform:rotate(-3deg)}50%{transform:rotate(3deg)}}</style>
 <g transform="translate(122 5) scale(.87)"><g class="bird" stroke-linejoin="round">
 <path d="M9 31 30 20 45 28 38 37 27 27Z" fill="#eddbb4"/>
 <path d="M27 27 38 37 37 66 31 53Z" fill="#ddc28c"/>
