@@ -1,6 +1,8 @@
 <br>
 
 <picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="../../assets/profile/tipografia-mobile-dark.svg?v=motion2">
+  <source media="(max-width: 600px)" srcset="../../assets/profile/tipografia-mobile-light.svg?v=motion2">
   <source media="(prefers-color-scheme: dark)" srcset="../../assets/profile/tipografia-dark.svg?v=motion2">
   <source media="(prefers-color-scheme: light)" srcset="../../assets/profile/tipografia-light.svg?v=motion2">
   <img src="../../assets/profile/tipografia-light.svg?v=motion2" alt="Pedro Arthur" width="34%" align="left">
