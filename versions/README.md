@@ -2,7 +2,7 @@
 
 Quatro temas animados para o perfil. Abra uma versão para ver o README completo.
 
-[Explorar a página interativa](https://pedro-arthur-ciclos.pdrarth.chatgpt.site) — os quatro temas em loop, com troca a cada dois minutos.
+[Ver a rotação diretamente no perfil](https://github.com/PdrArth) — os quatro temas em loop, com troca a cada dois minutos e contatos dentro da arte.
 
 <table>
   <tr>
