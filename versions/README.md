@@ -2,6 +2,8 @@
 
 Quatro temas animados para o perfil. Abra uma versão para ver o README completo.
 
+[Explorar a página interativa](https://pedro-arthur-ciclos.pdrarth.chatgpt.site) — os quatro temas em loop, com troca a cada dois minutos.
+
 <table>
   <tr>
     <td width="33%" align="center"><a href="espaco/README.md"><img src="../assets/profile/scenes/espaco.png?v=contacts1" alt="Janela orbital: satélite flutuando sobre a Terra." width="100%"><br><strong>Janela orbital</strong></a></td>
